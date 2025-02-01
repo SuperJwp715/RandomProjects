@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/project.dir/link.d CMakeFiles/project.dir/main.cpp.o -o project  /home/justinwork/glfw/src/src/libglfw3.a /usr/lib/libGL.so /usr/lib/librt.a -lm -ldl
